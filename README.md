@@ -1,6 +1,5 @@
-<!-- ![MasterHead](https://initiate.alphacoders.com/images/134/cropped-820-260-1341480.png?109) </br>
-![](https://komarev.com/ghpvc/?username=alidemirkan&color=red)
-
+ ![MasterHead](https://initiate.alphacoders.com/content_requests/1122056-final.png) </br>
+<!--  ![](https://komarev.com/ghpvc/?username=alidemirkan&color=red)
 
 
 <div align="center">
@@ -40,6 +39,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 -->
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,9 +55,8 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
-<br>
-<a
-  href="https://linkedin.com/in/alidemirkan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alidemirkan" height="30" width="40"></a>
+<!-- <a
+  href="https://linkedin.com/in/alidemirkan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alidemirkan" height="30" width="40"></a> -->
 
 <br><br>
 
