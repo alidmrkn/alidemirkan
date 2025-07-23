@@ -1,5 +1,5 @@
- ![MasterHead](https://initiate.alphacoders.com/content_requests/1122056-final.png) </br>
-<!--  ![](https://komarev.com/ghpvc/?username=alidemirkan&color=red)
+ <!-- ![MasterHead](https://initiate.alphacoders.com/content_requests/1122056-final.png) </br>
+  ![](https://komarev.com/ghpvc/?username=alidemirkan&color=red)
 
 
 <div align="center">
