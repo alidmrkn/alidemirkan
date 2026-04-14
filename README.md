@@ -1,3 +1,22 @@
+<p align="center">
+  <a href="https://github.com/alidemirkan">
+<img width="200" height="59" alt="Image" src="https://github.com/user-attachments/assets/94fdfb9e-664b-46ef-9702-200bf5d16c0d" />
+</p>
+
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/alidemirkan/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<p align="center">
+  <a href="https://youtube.com/@AliDemirkanProjects"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/alidemirkan/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+ 
+
+ 
  <!-- ![MasterHead](https://initiate.alphacoders.com/content_requests/1122056-final.png) </br>
   ![](https://komarev.com/ghpvc/?username=alidemirkan&color=red)
 
