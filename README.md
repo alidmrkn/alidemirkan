@@ -1,10 +1,10 @@
+![](https://komarev.com/ghpvc/?username=alidemirkan&color=lightgrey)
 <p align="center">
   <a href="https://github.com/alidemirkan">
 <img width="200" height="59" alt="Image" src="https://github.com/user-attachments/assets/94fdfb9e-664b-46ef-9702-200bf5d16c0d" />
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/alidemirkan/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
@@ -14,10 +14,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/alidemirkan/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- 
+<br><br>
 
- 
- <!-- ![MasterHead](https://initiate.alphacoders.com/content_requests/1122056-final.png) </br>
+  <!--
+ ![MasterHead](https://initiate.alphacoders.com/content_requests/1122056-final.png) </br>
   ![](https://komarev.com/ghpvc/?username=alidemirkan&color=red)
 
 
@@ -60,7 +60,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 -->
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
@@ -84,7 +84,7 @@
 - 🌱 I’m currently learning **Blender** -->
 
 
-How to reach me **alidemirkandev@gmail.com**
+✉ How to reach me: **alidemirkandev@gmail.com** 
 
 <br>
 
